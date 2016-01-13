@@ -2,7 +2,7 @@
 This repository contains my own additions to jcrochol's newest delta frame concept at https://github.com/jcrocholl/25000.
 
 ## Sheet metal carriage
-A carriage design for openbuild's 20x40 vslot and their line of vroller's
+A carriage design for openbuild's 20x40 vslot and their line of V Wheels. All hardware available at http://openbuildspartstore.com/
 
 ## Build plate
 A nice build plate covering the bottom triangle out to the brackets.
