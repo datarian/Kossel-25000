@@ -1,11 +1,16 @@
 # Kossel 25000 additions
 This repository contains my own additions to jcrochol's newest delta frame concept at https://github.com/jcrocholl/25000.
 
+Growing build log and further documentation on : [parate.ch/3d-printing](http://parate.ch/3d-printing)
+
+
 ## Sheet metal carriage
-A carriage design for openbuild's 20x40 vslot and their line of vroller's
+A carriage design for openbuild's 20x40 vslot and their line of V Wheels. All hardware available at http://openbuildspartstore.com/
 
 ## Build plate
-A nice build plate covering the bottom triangle out to the brackets.
+A nice build plate covering the bottom triangle out to the brackets. It's sandwiched with cork and an airgap underneath the heater for thermal insulation.
+
+As my frame is designed for 300 mm horizontals, this won't fit the - as it looks right now - go-to size defined by dc42 (see https://miscsolutions.wordpress.com/2015/06/01/building-a-large-delta-printer/)
 
 This builds on my previous design for the mini kossel heated bed, with which I'm quite satisfied (https://github.com/parate/Mini-Kossel-Heatbed)
 
