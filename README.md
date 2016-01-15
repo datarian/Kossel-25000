@@ -1,6 +1,9 @@
 # Kossel 25000 additions
 This repository contains my own additions to jcrochol's newest delta frame concept at https://github.com/jcrocholl/25000.
 
+Growing build log and further documentation on : [parate.ch/3d-printing](http://parate.ch/3d-printing)
+
+
 ## Sheet metal carriage
 A carriage design for openbuild's 20x40 vslot and their line of V Wheels. All hardware available at http://openbuildspartstore.com/
 
