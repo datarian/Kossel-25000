@@ -6,7 +6,7 @@ All parts sourced from [openbuilds](http://openbuildspartstore.com/)
 * 3 x 8 mm shim
 * 3 x eccentric spacer, length 6mm
 * 9 x Extreme solid V Wheel Kit
-* 9 x M5x35 screws, 5 M5 washers, 3 nylock nuts
+* 9 x M5x35 screws, 5 x M5 washers, 3 x M5 nylock nut
 
 # A note on material
 
