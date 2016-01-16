@@ -8,4 +8,6 @@ All parts sourced from [openbuilds](http://openbuildspartstore.com/)
 * 9 x Extreme solid V Wheel Kit
 * 9 x M5x35 screws, 5 M5 washers, 3 nylock nuts
 
-## Base material
+# A note on material
+
+These brackets are designed to be cut out from 2 mm stainless steel. Elongation compensation and bend radii are dependent on material, so if you cut them from aluminium, they might not turn out right.
